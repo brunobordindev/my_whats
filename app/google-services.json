@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397652386804",
+    "project_id": "whats-e30a3",
+    "storage_bucket": "whats-e30a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397652386804:android:f8708213bdbf5d099e8fa1",
+        "android_client_info": {
+          "package_name": "br.com.mywhatsapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397652386804-q66pmd9ak71bloi4i274o3g69kcpr03t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mywhatsapp2",
+            "certificate_hash": "c70fead4ce06fcacfe77b1973b036072ea8b73b9"
+          }
+        },
+        {
+          "client_id": "397652386804-jucl12j8vt435dd50l9ohcdhoorch0jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-FAvTa0FdRSlVvykLCoUdV0CnJXEzq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397652386804-jucl12j8vt435dd50l9ohcdhoorch0jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
